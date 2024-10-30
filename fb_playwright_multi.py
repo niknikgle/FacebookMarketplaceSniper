@@ -14,7 +14,7 @@ from telegram.constants import ParseMode
 DEFAULT_SETTINGS = [3, "carrera", 0, 250]
 
 # Configuration of Telegram
-TELEGRAM_API = "7208075929:AAFhJcrXHsZDP1rOy27_W_W947bfhNYtlh0"
+TELEGRAM_API = ""
 bot = Bot(TELEGRAM_API)
 
 # Logging configuration
